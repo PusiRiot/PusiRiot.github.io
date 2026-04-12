@@ -885,7 +885,7 @@ body.game-page #hero {
     bottom: 10px;
     right: 12px;
     font-family: var(--pixel);
-    font-size: 0.3rem;
+    font-size: 0.7rem;
     color: var(--dim);
     letter-spacing: 1px;
     z-index: 2;
